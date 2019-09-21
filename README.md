@@ -1,2 +1,2 @@
 # SimulTrans-workshop.github.io
-workshop for simultaneous translation
+First Workshop on Simultaneous Translation
