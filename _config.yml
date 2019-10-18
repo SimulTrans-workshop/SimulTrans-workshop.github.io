@@ -10,7 +10,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Workshop on Simultaneous Translation (SimulTrans)"
-keywords:    "workshop, machine translation, natural language processing
+keywords:    "workshop, machine translation, natural language processing"
 description: "The official website for the Workshop on Workshop on Simultaneous Translation"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
