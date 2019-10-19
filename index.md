@@ -20,8 +20,8 @@ Meanwhile, the workshop will also explore challenges for developing practical si
 
 
 
-To promote research on MRQA, particularly related to generalization, we seek submissions in two tracks: [a research track](cfp) and [**a new shared task track**](shared).
-Our shared task is specifically designed to test how well MRQA systems can generalize to new domains (see more details below).
+To promote research on SimulTrans, particularly related to generalization, we seek submissions in two tracks: [a research track](cfp) and [**a new shared task track**](shared).
+Our shared task is specifically designed to test how well SimulTrans systems can generalize to new domains (see more details below).
 
 
 ## Shared Task
