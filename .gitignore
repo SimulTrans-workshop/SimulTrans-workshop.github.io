@@ -1,7 +1,6 @@
 .DS_Store
 .jekyll-cache
 _site
-.gitignore
 
 # below not ready
 tmparchive
