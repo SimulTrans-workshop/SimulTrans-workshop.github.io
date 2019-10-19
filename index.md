@@ -55,7 +55,7 @@ We have two sets of keynote speakers: 4 from simultaneous translation, and 2 fro
 - [Barry Slaughter Olsen](https://www.middlebury.edu/institute/people/barry-slaughter-olsen), the Middlebury Institute of International Studies and Conference Interpreter, and Member of the International Association of Conference Interpreters (AIIC), USA
 
 ## Awards
-We will have a best paper award, a best presenta- tion award, and a best poster award, sponsored by the above sponsors.
+We will have a best paper award, a best presentation award, and a best poster award, sponsored by the above sponsors.
 
 ## Financial Assistance
 We can offer partial financial aid to student authors who demonstrate significant financial need.
