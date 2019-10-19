@@ -19,9 +19,7 @@ The architecture of simultaneous translation: traditional pipeline (ASR-MT-TTS) 
 Meanwhile, the workshop will also explore challenges for developing practical simultaneous translation systems and will provide opportunity for participants show their products.
 
 
-
-To promote research on SimulTrans, particularly related to generalization, we seek submissions in two tracks: [a research track](cfp) and [**a new shared task track**](shared).
-Our shared task is specifically designed to test how well SimulTrans systems can generalize to new domains (see more details below).
+We introduce two submission tracks in this workshop: [**a shared task track**](shared) for simultaneous translation quality and latency competition; and [a research track](cfp) for related research paper submissions (see more details below).
 
 
 ## Shared Task

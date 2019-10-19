@@ -64,7 +64,7 @@ td {
   position: relative;
   padding: 1rem;
   font-weight: 500;
-  color: #cdddeb;
+  color: #555555/*#d8e0f0*//*#cdddeb*/;
 }
 .nav-link:hover,
 .nav-link:focus {
