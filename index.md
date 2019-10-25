@@ -74,35 +74,28 @@ Instructions on how to apply for financial assistance will be provided after pap
 
 ## Program Committee:
 
-(†: members from underrepresented demographic groups; 7 in total)
-
-- Alina Karakanta, FBK-Trento, Italy; member of AIIC (both a professional interpreter and a machine translation researcher) †
-- Baigong Zheng, Baidu Research, USA
-- Chung-Cheng Chiu, Google, USA
-- Colin Raffel, Google, USA
-- George Foster, Google, Canada
-- Hao Xiong, Baidu Inc. China
-- He He, NYU, USA †
-- Jan Niehues, Maastricht U., Netherlands
-- Jiajun Zhang, CAS/IA, China
-- Kaibo Liu, Baidu Research, USA
-- Mingbo Ma, Baidu Research, USA
-- Naveen Arivazhagan, Google, USA
-- Renjie Zheng, Oregon State Univ., USA
-- Ruiqing Zhang, Baidu Inc. China
-- Wolfgang Macherey, Google, USA
-- Wei Li, Google, USA †
-- Yusuke Oda, Google, Japan
-- Yang Feng, CAS/ICT, China †
-- Elizabeth Salesky, CMU, USA †
-- Alvin Grissom II, Ursinus College, USA †
-- Ruiqing Zhang, Baidu Inc, China †
+- [Naveen Arivazhagan](https://scholar.google.com/citations?user=9KGy35AAAAAJ&hl=en), Google, USA
+- [Chung-Cheng Chiu](https://scholar.google.com/citations?user=8bNM5WgAAAAJ&hl=en), Google, USA
+- Yang Feng, CAS/ICT, China
+- [George Foster](https://scholar.google.com/citations?user=Hr8KyG4AAAAJ&hl=en), Google, Canada
+- [Alvin Grissom II](https://www.ursinus.edu/live/profiles/3125-alvin-grissom-ii), Ursinus College, USA
+- [He He](https://hhexiy.github.io/), NYU, USA
+- [Alina Karakanta](https://ict.fbk.eu/people/detail/alina-karakanta/), FBK-Trento, Italy; member of AIIC (both a professional interpreter and a machine translation researcher)
+- [Wei Li](https://weilinear.github.io/), Google, USA
+- [Kaibo Liu](https://www.linkedin.com/in/kaibo-liu-99a6303b/), Baidu Research, USA
+- [Mingbo Ma](http://mingboma.com/), Baidu Research, USA
+- [Wolfgang Macherey](https://ai.google/research/people/author7590/), Google, USA
+- [Jan Niehues](https://www.maastrichtuniversity.nl/jan.niehues), Maastricht U., Netherlands
+- [Yusuke Oda](https://scholar.google.com/citations?user=Re6oRt4AAAAJ&hl=en), Google, Japan
+- [Colin Raffel](https://colinraffel.com/), Google, USA
+- [Elizabeth Salesky](https://www.lti.cs.cmu.edu/people/222218365/elizabeth-salesky), CMU, USA
+- [Hao Xiong](https://scholar.google.com/citations?user=RDvwXDsAAAAJ&hl=en), Baidu Inc. China
+- [Jiajun Zhang](http://www.nlpr.ia.ac.cn/cip/jjzhang.htm), CAS/IA, China
+- [Ruiqing Zhang](https://cn.linkedin.com/in/ruiqing-zhang-36b99b61), Baidu Inc. China
+- [Baigong Zheng](https://www.aclweb.org/anthology/people/b/baigong-zheng/), Baidu Research, USA
+- [Renjie Zheng](http://www.renj.me/), Oregon State Univ., USA
 
 
-## Sponsors
-![Baidu]({{ "/assets/images/baidu-logo.png" | absolute_url }})
-![Google]({{ "/assets/images/google-logo.png" | absolute_url }})
-![Facebook]({{ "/assets/images/facebook-logo.png" | absolute_url }})
 
 
 Please see [Invitation to Sponsor SimulTrans](assets/docs/sponsorship.pdf) for sponsorship details.
