@@ -80,7 +80,7 @@ Instructions on how to apply for financial assistance will be provided after pap
 - [George Foster](https://scholar.google.com/citations?user=Hr8KyG4AAAAJ&hl=en), Google, Canada
 - [Alvin Grissom II](https://www.ursinus.edu/live/profiles/3125-alvin-grissom-ii), Ursinus College, USA
 - [He He](https://hhexiy.github.io/), NYU, USA
-- [Alina Karakanta](https://ict.fbk.eu/people/detail/alina-karakanta/), FBK-Trento, Italy; member of AIIC (both a professional interpreter and a machine translation researcher)
+- [Alina Karakanta](https://ict.fbk.eu/people/detail/alina-karakanta/), FBK-Trento, Italy
 - [Wei Li](https://weilinear.github.io/), Google, USA
 - [Kaibo Liu](https://www.linkedin.com/in/kaibo-liu-99a6303b/), Baidu Research, USA
 - [Mingbo Ma](http://mingboma.com/), Baidu Research, USA
