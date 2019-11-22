@@ -13,9 +13,9 @@ We will dive head-first into training a transformer model from scratch using a T
 #### Step 1) Launch TensorFlow GPU Docker Container
 
 Using Docker allows us to spin up a fully contained environment for our training needs. We always recommend using Docker, as it allows ultimate flexibility (and forgiveness) in our training environment. To begin we will open a terminal window and enter the following command to launch our NVIDIA CUDA powered container.
-```bash
-nvidia-docker run -it -p 6007:6006 -v /data:/datasets tensorflow/tensorflow:nightly-gpu bash
-```
+
+`nvidia-docker run -it -p 6007:6006 -v /data:/datasets tensorflow/tensorflow:nightly-gpu bash`
+
 Note: A quick description about the key parameters of the above command (if you’re unfamiliar with Docker).
 
 Docker Syntax|	Description
