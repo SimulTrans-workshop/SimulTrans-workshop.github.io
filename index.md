@@ -76,7 +76,7 @@ Instructions on how to apply for financial assistance will be provided after pap
 
 - [Naveen Arivazhagan](https://scholar.google.com/citations?user=9KGy35AAAAAJ&hl=en), Google, USA
 - [Chung-Cheng Chiu](https://scholar.google.com/citations?user=8bNM5WgAAAAJ&hl=en), Google, USA
-- Yang Feng, CAS/ICT, China
+- [Yang Feng](http://sourcedb.ict.cas.cn/cn/jssrck/201709/t20170910_4857722.html), CAS/ICT, China
 - [George Foster](https://scholar.google.com/citations?user=Hr8KyG4AAAAJ&hl=en), Google, Canada
 - [Alvin Grissom II](https://www.ursinus.edu/live/profiles/3125-alvin-grissom-ii), Ursinus College, USA
 - [He He](https://hhexiy.github.io/), NYU, USA
