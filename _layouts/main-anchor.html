@@ -40,7 +40,13 @@
                     {% else %}
                     <li class="nav-item">
                     {% endif%}
-                        <a class="nav-link" href="{{sorted_pages['1'].url}}#{{p.anchor}}">{{p.title}}</a>
+
+                    {% if p.title == 'tutorial' %}
+                    <a class="nav-link" href="{{p.url}}">{{p.title}}</a>
+                    {% else %}
+                    <a class="nav-link" href="{{sorted_pages['1'].url}}#{{p.anchor}}">{{p.title}}</a>
+                    {% endif%}
+
                     </li>
                     {% endfor %}
                 </ul>
