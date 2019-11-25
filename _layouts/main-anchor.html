@@ -35,20 +35,22 @@
                 <ul class="navbar-nav mr-auto">
                     {% assign sorted_pages = site.pages | sort:"order" | where:"collection","pages_2020" %}
                     {% for p in sorted_pages %}
-                    {% if p.title == page.title %}
-                    <li class="nav-item active">
-                    {% else %}
-                    <li class="nav-item">
-                    {% endif%}
+                        {% if p.title == 'Home' %}{% assign p0url = p.url %}{% endif %}
 
-                    {% if p.title == 'tutorial' %}
-                    <a class="nav-link" href="{{p.url}}">{{p.title}}</a>
-                    {% else %}
-                    <a class="nav-link" href="{{sorted_pages['1'].url}}#{{p.anchor}}">{{p.title}}</a>
-                    {% endif%}
-
-                    </li>
+                        {% if p.title == page.title %}
+                            <li class="nav-item active">
+                        {% else %}
+                            <li class="nav-item">
+                        {% endif %}
+    
+                        {% if p.title == 'tutorial' %}
+                            <a class="nav-link" href="{{p.url}}">{{p.title}}</a>
+                        {% else %}
+                            <a class="nav-link" href="{{p0url}}#{{p.anchor}}">{{p.title}}</a>
+                        {% endif %}
+                        </li>
                     {% endfor %}
+                    <!--{{sorted_pages['1'].title}} useless-->
                 </ul>
             </div>
         </nav>

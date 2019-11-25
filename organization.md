@@ -4,7 +4,6 @@ title: Organization
 anchor: organizing-committee
 order: 5
 collection: pages_2020
-permalink: /organization
 ---
 
 [talks](#invited-keynote-speakers-confirmed)
