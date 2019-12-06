@@ -4,6 +4,11 @@ title: tutorial
 order: 7
 collection: pages_2020
 ---
+### Run your model in Docker
+1. You can walk through Step 1-12 from strach to understand the whole pipeline
+2. If you have your own code/model ready, you can **skip** Step 3 and Step 6-9, just copy your data to the container by
+
+`docker cp <local_data_path>:[containerID]:<docker_data_path>`
 
 ### Training a TensorFlow-based Transformer Model from Scratch in Docker
 
@@ -34,7 +39,7 @@ This may be necessary if you are running a fresh docker container.
 `apt-get install git`
 
 
-#### Step 3) Download Models (Transformer Codebase is included here)
+#### Step 3) Download 'Models' (Transformer Codebase is included here)
 In case you do not have the latest up-to-date codebase for the models, the transformer network model is included here and the devs tend to update it quite frequently.
 
 `mkdir /tf-1.5; cd /tf-1.5`  
