@@ -100,4 +100,4 @@ Instructions on how to apply for financial assistance will be provided after pap
 
 
 
-Please see [Invitation to Sponsor SimulTrans](assets/docs/sponsorship.pdf) for sponsorship details.
+Please see [Invitation to Sponsor AutoSimTrans](assets/docs/sponsorship.pdf) for sponsorship details.
