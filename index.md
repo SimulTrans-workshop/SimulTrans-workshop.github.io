@@ -5,6 +5,8 @@ order: 1
 collection: pages_2020
 ---
 
+<meta http-equiv="Refresh" content="0; url=https://autosimtrans.github.io" />
+
 ## Overview
 
 Simultaneous translation, which performs translation concurrently with the source speech, is widely useful in many scenarios such as international conferences, negotiations, press releases, legal proceedings, and medicine. It combines the AI technologies of machine translation (MT), automatic speech recognition (ASR), and text-to-speech synthesis (TTS), is becoming a cutting-edge research field.
